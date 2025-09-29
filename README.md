@@ -1,0 +1,2 @@
+# amakuratest
+test
